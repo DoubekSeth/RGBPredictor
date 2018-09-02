@@ -1,1 +1,1 @@
-Going to try a different algorithm, This particular data doesn't fit the linearity that I want from the squared cost function.
+Use the one without the space, it actually works because it is a deep network rather than a shallow one.
